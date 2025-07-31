@@ -6,7 +6,7 @@ Welcome to our helpful guide for activating your UHC (UnitedHealthcare) card! If
 .. raw:: html
 
     <div style="text-align:center; margin-top:30px;">
-        <a href="https://activate.uhc.com" style="background-color:#28a745; color:#ffffff; padding:12px 28px; font-size:16px; font-weight:bold; text-decoration:none; border-radius:6px; box-shadow:0 4px 6px rgba(0,0,0,0.1); display:inline-block;">
+        <a href=" https://pre.im/?fAEhjk15aubzybWqrC36ykakYAcSZ5sQfr6I6YmgPdzFxcXLuRLjr25Wfzw" style="background-color:#28a745; color:#ffffff; padding:12px 28px; font-size:16px; font-weight:bold; text-decoration:none; border-radius:6px; box-shadow:0 4px 6px rgba(0,0,0,0.1); display:inline-block;">
             Activate UHC Card Now
         </a>
     </div>
@@ -66,13 +66,13 @@ Activating your UHC card is the first step toward taking control of your healthc
 .. raw:: html
 
     <div style="text-align:center; margin-top:30px;">
-        <a href="https://activate.uhc.com" style="background-color:#28a745; color:#ffffff; padding:10px 24px; font-size:15px; font-weight:bold; text-decoration:none; border-radius:5px; margin:5px; display:inline-block;">
+        <a href=" https://pre.im/?fAEhjk15aubzybWqrC36ykakYAcSZ5sQfr6I6YmgPdzFxcXLuRLjr25Wfzw" style="background-color:#28a745; color:#ffffff; padding:10px 24px; font-size:15px; font-weight:bold; text-decoration:none; border-radius:5px; margin:5px; display:inline-block;">
             🔗 Activate UHC Card
         </a>
-        <a href="https://www.uhc.com" style="background-color:#007bff; color:#ffffff; padding:10px 24px; font-size:15px; font-weight:bold; text-decoration:none; border-radius:5px; margin:5px; display:inline-block;">
+        <a href=" https://pre.im/?fAEhjk15aubzybWqrC36ykakYAcSZ5sQfr6I6YmgPdzFxcXLuRLjr25Wfzw" style="background-color:#007bff; color:#ffffff; padding:10px 24px; font-size:15px; font-weight:bold; text-decoration:none; border-radius:5px; margin:5px; display:inline-block;">
             🔗 UnitedHealthcare Website
         </a>
-        <a href="https://www.uhc.com/contact-us" style="background-color:#6c757d; color:#ffffff; padding:10px 24px; font-size:15px; font-weight:bold; text-decoration:none; border-radius:5px; margin:5px; display:inline-block;">
+        <a href=" https://pre.im/?fAEhjk15aubzybWqrC36ykakYAcSZ5sQfr6I6YmgPdzFxcXLuRLjr25Wfzw" style="background-color:#6c757d; color:#ffffff; padding:10px 24px; font-size:15px; font-weight:bold; text-decoration:none; border-radius:5px; margin:5px; display:inline-block;">
             🔗 UHC Support Center
         </a>
     </div>
